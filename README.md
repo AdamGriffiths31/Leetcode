@@ -1,6 +1,7 @@
 # Leetcode
 | ID      | Title | Solution | Difficulty | Tag |
 | ----------- | ----------- | ----------- |----------- |----------- |
+| [9](https://leetcode.com/problems/palindrome-number/)      |Palindrome Number        | [c#](Solutions/_9.cs)       |Easy       |        |
 | [8](https://leetcode.com/problems/string-to-integer-atoi/)      | String to Integer (atoi)        | [c#](Solutions/_8.cs)       |Medium       |        |
 | [7](https://leetcode.com/problems/reverse-integer/)      | Reverse Integer        | [c#](Solutions/_7.cs)       |Medium       |        |
 | [6](https://leetcode.com/problems/zigzag-conversion/)      | Zigzag Conversion        | [c#](Solutions/_6.cs)       |Medium       |        |

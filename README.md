@@ -1,8 +1,9 @@
 # Leetcode
 | ID      | Title | Solution | Difficulty | Tag |
 | ----------- | ----------- | ----------- |----------- |----------- |
-| [242](https://leetcode.com/problems/valid-anagram/)      |Valid Anagram       | [c#](Solutions/_217.cs)       |Easy       |  Hash Table       |
+| [242](https://leetcode.com/problems/valid-anagram/)      |Valid Anagram       | [c#](Solutions/_242.cs)       |Easy       |  Hash Table       |
 | [217](https://leetcode.com/problems/contains-duplicate/)      |Contains Duplicate        | [c#](Solutions/_217.cs)       |Easy       |  Hash Table       |
+| [49](https://leetcode.com/problems/group-anagrams/)      |Group Anagrams        | [c#](Solutions/_49.cs)       |Medium       |Hash Table        |
 | [11](https://leetcode.com/problems/container-with-most-water/)      |Container With Most Water        | [c#](Solutions/_11.cs)       |Medium       |        |
 | [10](https://leetcode.com/problems/regular-expression-matching/)      |Regular Expression Matching        | [c#](Solutions/_10.cs)       |Hard       |        |
 | [9](https://leetcode.com/problems/palindrome-number/)      |Palindrome Number        | [c#](Solutions/_9.cs)       |Easy       |        |

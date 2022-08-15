@@ -1,6 +1,7 @@
 # Leetcode
 | ID      | Title | Solution | Difficulty | Tag |
 | ----------- | ----------- | ----------- |----------- |----------- |
+| [347](https://leetcode.com/problems/top-k-frequent-elements/)      |Top K Frequent Elements       | [c#](Solutions/_347.cs)       |Medium       |  Hash Table       |
 | [242](https://leetcode.com/problems/valid-anagram/)      |Valid Anagram       | [c#](Solutions/_242.cs)       |Easy       |  Hash Table       |
 | [217](https://leetcode.com/problems/contains-duplicate/)      |Contains Duplicate        | [c#](Solutions/_217.cs)       |Easy       |  Hash Table       |
 | [49](https://leetcode.com/problems/group-anagrams/)      |Group Anagrams        | [c#](Solutions/_49.cs)       |Medium       |Hash Table        |

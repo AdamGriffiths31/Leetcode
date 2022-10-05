@@ -6,6 +6,7 @@
 | [242](https://leetcode.com/problems/valid-anagram/)      |Valid Anagram       | [c#](Solutions/_242.cs)       |Easy       |  Hash Table       |
 | [238](https://leetcode.com/problems/product-of-array-except-self/)      |Product of Array Except Self       | [c#](Solutions/_238.cs)       |Medium       |  Hash Table       |
 | [217](https://leetcode.com/problems/contains-duplicate/)      |Contains Duplicate        | [c#](Solutions/_217.cs)       |Easy       |  Hash Table       |
+| [169](https://leetcode.com/problems/majority-element/)      |Majority Element        | [c#](Solutions/_169.cs)       |Easy       |Hash Table        |
 | [49](https://leetcode.com/problems/group-anagrams/)      |Group Anagrams        | [c#](Solutions/_49.cs)       |Medium       |Hash Table        |
 | [36](https://leetcode.com/problems/valid-sudoku/)      |Valid Sudoku        | [c#](Solutions/_36.cs)       |Medium       |Hash Table        |
 | [11](https://leetcode.com/problems/container-with-most-water/)      |Container With Most Water        | [c#](Solutions/_11.cs)       |Medium       |        |

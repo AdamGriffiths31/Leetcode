@@ -1,5 +1,3 @@
-package main
-
 func twoSum(nums []int, target int) []int {
 	var returnVal []int
 	hashmap := make(map[int]int)

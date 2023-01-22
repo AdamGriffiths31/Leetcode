@@ -6,6 +6,8 @@
 | [1706](https://leetcode.com/problems/where-will-the-ball-fall/)                | Where Will the Ball Fall                   |  [Go](Solutions/_1706.go) | Medium       | Matrix        |
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/)                | Unique Number of Occurrences                   | [c#](Solutions/_1207.cs) [Go](Solutions/_1207.go) | Easy       | Hash Table         |
 | [621](https://leetcode.com/problems/task-scheduler/)                | Task Scheduler                   | [Go](Solutions/_621.go) | Medium       | Heap         |
+| [543](https://leetcode.com/problems/diameter-of-binary-tree/)                | Diameter of Binary Tree                   | [Go](Solutions/_543.go) | Easy       | Tree         |
+| [437](https://leetcode.com/problems/path-sum-iii/)                | Path Sum III                   | [Go](Solutions/_437.go) | Medium       | Tree         |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/)                      | Top K Frequent Elements                        | [c#](Solutions/_347.cs) [Go](Solutions/_347.go)                           | Medium     | Hash Table         |
 | [328](https://leetcode.com/problems/odd-even-linked-list/)                      | Odd Even Linked List                        | [Go](Solutions/_328.go)                           | Medium     | Linked List         |
 | [242](https://leetcode.com/problems/valid-anagram/)                                | Valid Anagram                                  | [c#](Solutions/_242.cs) [Go](Solutions/_242.go)                          | Easy       | Hash Table         |

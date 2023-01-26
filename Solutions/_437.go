@@ -1,5 +1,3 @@
-package main
-
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -25,7 +23,7 @@ func dfs(root *TreeNode, rootSum int) int {
 	rootSum += root.Val
 	count := hashmap[rootSum-res]
 	hashmap[rootSum]++
-	
+
 	count += dfs(root.Left, rootSum)
 	count += dfs(root.Right, rootSum)
 	hashmap[rootSum]--

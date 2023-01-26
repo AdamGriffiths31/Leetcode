@@ -21,6 +21,7 @@
 | [128](https://leetcode.com/problems/longest-consecutive-sequence/)                 | Longest Consecutive Sequence                   | [Go](Solutions/_128.go)                            | Medium     | Hash Table         |
 | [125](https://leetcode.com/problems/valid-palindrome/)         | Valid Palindrome                                                   | [Go](Solutions/_125.go)                            | Medium     | Two Pointers         |
 | [110](https://leetcode.com/problems/balanced-binary-tree/)         | Balanced Binary Tree                                                   | [Go](Solutions/_110.go)                            | Easy     | Tree         |
+| [74](https://leetcode.com/problems/search-a-2d-matrix/)         | Search a 2D Matrix                                                   | [Go](Solutions/_74.go)                            | Medium     | Binary Search         |
 | [54](https://leetcode.com/problems/spiral-matrix/)                                | Spiral Matrix                                   | [Go](Solutions/_54.go)                            | Medium     | Matrix         |
 | [49](https://leetcode.com/problems/group-anagrams/)                                | Group Anagrams                                 | [c#](Solutions/_49.cs)                            | Medium     | Hash Table         |
 | [43](https://leetcode.com/problems/multiply-strings/)                                | Multiply Strings                                 | [Go](Solutions/_43.go)                            | Medium     | Strings         |

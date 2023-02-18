@@ -17,6 +17,7 @@
 | [217](https://leetcode.com/problems/contains-duplicate/)                           | Contains Duplicate                             | [c#](Solutions/_217.cs) [Go](Solutions/_217.go)                          | Easy       | Hash Table         |
 | [202](https://leetcode.com/problems/happy-number/)                                 | Happy Number                                   |  [Go](Solutions/_202.go)                          | Easy       | Maths         |
 | [169](https://leetcode.com/problems/majority-element/)                             | Majority Element                               | [c#](Solutions/_169.cs) [Go](Solutions/_169.go)   | Easy       | Hash Table         |
+| [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)         | Two Sum II - Input Array Is Sorted                                                   | [Go](Solutions/_167.go)                            | Medium     | Two Pointers         |
 | [148](https://leetcode.com/sort-list/)                 | Sort List                   | [Go](Solutions/_148.go)                            | Medium     | Linked List         |
 | [128](https://leetcode.com/problems/longest-consecutive-sequence/)                 | Longest Consecutive Sequence                   | [Go](Solutions/_128.go)                            | Medium     | Hash Table         |
 | [125](https://leetcode.com/problems/valid-palindrome/)         | Valid Palindrome                                                   | [Go](Solutions/_125.go)                            | Medium     | Two Pointers         |

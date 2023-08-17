@@ -1,4 +1,4 @@
-# Leetcode
+# Leetcode
 
 | ID                                                                                          | Title                                                | Solution                                                          | Difficulty | Tag                 |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------- | ---------- | ------------------- |
@@ -9,6 +9,7 @@
 | [543](https://leetcode.com/problems/diameter-of-binary-tree/)                               | Diameter of Binary Tree                              | [Go](Solutions/_543.go)                                           | Easy       | Tree                |
 | [437](https://leetcode.com/problems/path-sum-iii/)                                          | Path Sum III                                         | [Go](Solutions/_437.go)                                           | Medium     | Tree                |
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement)                | Longest Repeating Character Replacement              | [Go](Solutions/_424.go)                                           | Medium     | Two Pointers        |
+| [389](https://leetcode.com/problems/find-the-difference/)                                   | Find the Difference                                  | [Go](Solutions/_389.go)                                           | Easy       | Strings             |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/)                               | Top K Frequent Elements                              | [c#](Solutions/_347.cs) [Go](Solutions/_347.go)                   | Medium     | Hash Table          |
 | [328](https://leetcode.com/problems/odd-even-linked-list/)                                  | Odd Even Linked List                                 | [Go](Solutions/_328.go)                                           | Medium     | Linked List         |
 | [242](https://leetcode.com/problems/valid-anagram/)                                         | Valid Anagram                                        | [c#](Solutions/_242.cs) [Go](Solutions/_242.go)                   | Easy       | Hash Table          |

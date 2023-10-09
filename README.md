@@ -1,4 +1,4 @@
-# Leetcode
+# Leetcode
 
 | ID                                                                                          | Title                                                | Solution                                                          | Difficulty | Tag                 |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------- | ---------- | ------------------- |
@@ -47,4 +47,4 @@
 | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/)                             | Median of Two Sorted Arrays                          | [c#](Solutions/_4.cs)                                             | Hard       | Divide and Conquer  |
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)          | Longest Substring Without Repeating Characters       | [c#](Solutions/_3.cs) [JS](Solutions/_3.js)                       | Medium     | Hash Table          |
 | [2](https://leetcode.com/problems/add-two-numbers/)                                         | Add Two Numbers                                      | [c#](Solutions/_2.cs)                                             | Medium     | Linked List         |
-| [1](https://leetcode.com/problems/two-sum/)                                                 | Two Sum                                              | [c#](Solutions/_1.cs) [Go](Solutions/_1.go) [JS](Solutions/_1.js) | Easy       | Hash Table          |
+| [1](https://leetcode.com/problems/two-sum/)                                                 | Two Sum                                              | [c#](Solutions/_1.cs) [Go](Solutions/_1.go) [JS](Solutions/_1.js) [c++](Solutions/_1.cpp) | Easy       | Hash Table          |

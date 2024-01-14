@@ -2,7 +2,7 @@ CXX = g++
 CXXFLAGS = -std=c++11
 
 TARGET = solution
-SRC = 347.cpp
+SRC = 22.cpp
 
 all: $(TARGET)
 

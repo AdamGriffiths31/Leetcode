@@ -1,7 +1,3 @@
-package main
-
-import "fmt"
-
 func intersection(nums1 []int, nums2 []int) []int {
 	result := []int{}
 	seen := make(map[int]bool)
@@ -17,9 +13,4 @@ func intersection(nums1 []int, nums2 []int) []int {
 	}
 
 	return result
-}
-
-func main() {
-	result := intersection([]int{1, 2, 2, 1}, []int{2, 2})
-	fmt.Println(result)
 }
